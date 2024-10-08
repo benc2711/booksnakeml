@@ -1,0 +1,140 @@
+
+[
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "22.5", "x", "19", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "22.5h", "NONE", "19w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "22.5", "x", "19", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "22.5h", "NONE", "19w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "22.5", "x", "19", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "22.5h", "NONE", "19w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "22.5", "x", "19", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "22.5h", "NONE", "19w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "21.5", "x", "16.5", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "21.5h", "NONE", "16.5w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "17.5", "x", "22", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "17.5h", "NONE", "22w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "24", "x", "19", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "24h", "NONE", "19w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "34", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "34w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "16", "x", "19", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "16h", "NONE", "19w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "23.5", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "23.5w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "11", "x", "19", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "11h", "NONE", "19w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "23.5", "x", "19", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "23.5h", "NONE", "19w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]
+    },
+    {
+        "tokens": ["Black", "and", "white", "photograph", ";", "5.8", "x", "9.5", "cm"],
+        "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "5.8h", "NONE", "9.5w", "NONE"]
+    },
+    {"tokens": ["Black", "and", "white", "photograph", ";", "17.5", "x", "22", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "17.5h", "NONE", "22w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "9", "x", "20.5", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "9h", "NONE", "20.5w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24.5", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24.5w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "23", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "23w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "18", "x", "23.5", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "18h", "NONE", "23.5w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "23.5", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "23.5w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "12.5", "x", "20", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "12.5h", "NONE", "20w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "17", "x", "23.5", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "17h", "NONE", "23.5w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "19.5", "x", "24.5", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19.5h", "NONE", "24.5w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "22.5", "x", "18.5", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "22.5h", "NONE", "18.5w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "18.5", "x", "23.5", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "18.5h", "NONE", "23.5w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "21.5", "x", "16.5", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "21.5h", "NONE", "16.5w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "20", "x", "25", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "20h", "NONE", "25w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "18.5", "x", "23.5", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "18.5h", "NONE", "23.5w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "8", "x", "11", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "8h", "NONE", "11w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "9", "x", "11", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "9h", "NONE", "11w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "7.5", "x", "4.5", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "7.5h", "NONE", "4.5w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "7", "x", "9", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "7h", "NONE", "9w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "8.5", "x", "11", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "8.5h", "NONE", "11w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "16.5", "x", "21.5", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "16.5h", "NONE", "21.5w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "9", "x", "11", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "9h", "NONE", "11w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "19", "x", "24", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "19h", "NONE", "24w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "18.5", "x", "24", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "18.5h", "NONE", "24w", "NONE"]},
+    {"tokens": ["Black", "and", "white", "photograph", ";", "10", "x", "20", "cm"], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "10h", "NONE", "20w", "NONE"]},
+    {"tokens": ["1", "map", ";", "col.", ";", "48", "x", "58", "cm.", "sheet", "53", "x", "73", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "48h", "NONE", "58w", "NONE", "NONE", "53h", "NONE", "73w", "NONE"]},
+    {"tokens": ["1", "map", ";", "col.", ";", "49", "x", "58", "cm.", "sheet", "53", "x", "74", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "49h", "NONE", "58w", "NONE", "NONE", "53h", "NONE", "74w", "NONE"]},
+    {"tokens": ["1", "map", "col.", "48", "x", "58", "cm.", "sheet", "53", "x", "73", "cm."], "labels": ["NONE", "NONE", "NONE", "48h", "NONE", "58w", "NONE", "NONE", "53h", "NONE", "73w", "NONE"]},
+    {"tokens": ["1", "map", ";", "outline", ";", "47", "x", "58", "cm.", "sheet", "53", "x", "63", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "47h", "NONE", "58w", "NONE", "NONE", "53h", "NONE", "63w", "NONE"]},
+    {"tokens": ["1", "map", ";", "96", "x", "65", "cm.", "sheet", "101", "x", "68", "cm."], "labels": ["NONE", "NONE", "NONE", "96h", "NONE", "65w", "NONE", "NONE", "101h", "NONE", "68w", "NONE"]},
+    {"tokens": ["1", "map", "hand", "col.", "104", "x", "120", "cm.", "sheet", "120", "x", "140", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "104h", "NONE", "120w", "NONE", "NONE", "120h", "NONE", "140w", "NONE"]},
+    {"tokens": ["1", "map", "hand", "col.", "47", "x", "64", "cm.", "sheet", "51", "x", "67", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "47h", "NONE", "64w", "NONE", "NONE", "51h", "NONE", "67w", "NONE"]},
+    {"tokens": ["1", "map", ";", "outline", ";", "50", "x", "59", "cm.", "sheet", "54", "x", "74", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "50h", "NONE", "59w", "NONE", "NONE", "54h", "NONE", "74w", "NONE"]},
+    {"tokens": ["1", "map", ";", "outline", ";", "40", "x", "69", "cm.", "sheet", "49", "x", "73", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "40h", "NONE", "69w", "NONE", "NONE", "49h", "NONE", "73w", "NONE"]},
+    {"tokens": ["1", "map", ";", "outline", ";", "49", "x", "58", "cm.", "sheet", "51", "x", "61", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "49h", "NONE", "58w", "NONE", "NONE", "51h", "NONE", "61w", "NONE"]},
+    {"tokens": ["1", "map", ";", "outline", ";", "40", "x", "68", "cm.", "sheet", "61", "x", "95", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "40h", "NONE", "68w", "NONE", "NONE", "61h", "NONE", "95w", "NONE"]},
+    {"tokens": ["1", "map", ";", "outline", ";", "40", "x", "68", "cm.", "sheet", "45", "x", "72", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "40h", "NONE", "68w", "NONE", "NONE", "45h", "NONE", "72w", "NONE"]},
+    {"tokens": ["1", "map", ";", "outline", "and", "hand", "col.", ";", "45", "x", "62", "cm.", "sheet", "45", "x", "64", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "NONE", "45h", "NONE", "62w", "NONE", "NONE", "45h", "NONE", "64w", "NONE"]},
+    {"tokens": ["1", "map", ";", "64", "x", "97", "cm.", "sheet", "67", "x", "99", "cm."], "labels": ["NONE", "NONE", "NONE", "64h", "NONE", "97w", "NONE", "NONE", "67h", "NONE", "99w", "NONE"]},
+    {"tokens": ["1", "map", ";", "96", "x", "118", "cm.", "sheet", "98", "x", "120", "cm."], "labels": ["NONE", "NONE", "NONE", "96h", "NONE", "118w", "NONE", "NONE", "98h", "NONE", "120w", "NONE"]},
+    {"tokens": ["1", "map", ";", "hand", "col.", ";", "48", "x", "127", "cm.", "sheet", "51", "x", "129", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "48h", "NONE", "127w", "NONE", "NONE", "51h", "NONE", "129w", "NONE"]},
+    {"tokens": ["1", "map", ";", "56", "x", "92", "cm.", "sheet", "63", "x", "95", "cm."], "labels": ["NONE", "NONE", "NONE", "56h", "NONE", "92w", "NONE", "NONE", "63h", "NONE", "95w", "NONE"]},
+    {"tokens": ["1", "map", "hand", "col.", "45", "x", "51", "cm.", "sheet", "54", "x", "73", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "45h", "NONE", "51w", "NONE", "NONE", "54h", "NONE", "73w", "NONE"]},
+    {"tokens": ["1", "map", "col.", "51", "x", "62", "cm.", "sheet", "53", "x", "68", "cm."], "labels": ["NONE", "NONE", "NONE", "51h", "NONE", "62w", "NONE", "NONE", "53h", "NONE", "68w", "NONE"]},
+    {"tokens": ["1", "map", "hand", "col.", "36", "x", "49", "cm.", "sheet", "44", "x", "53", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "36h", "NONE", "49w", "NONE", "NONE", "44h", "NONE", "53w", "NONE"]},
+    {"tokens": ["1", "map", ";", "24", "x", "31", "cm.", "sheet", "29", "x", "37", "cm."], "labels": ["NONE", "NONE", "NONE", "24h", "NONE", "31w", "NONE", "NONE", "29h", "NONE", "37w", "NONE"]},
+    {"tokens": ["1", "map", ";", "hand", "col.", ";", "48", "x", "127", "cm.", "sheet", "51", "x", "129", "cm."], "labels": ["NONE", "NONE", "NONE", "NONE", "NONE", "48h", "NONE", "127w", "NONE", "NONE", "51h", "NONE", "129w", "NONE"]}
+]
+
